@@ -21,7 +21,6 @@ module.exports = () => {
       new HtmlWebpackPlugin({
         template: './index.html'
       }),
-
       new InjectManifest({
         swSrc: './src-sw.js',
         swDest: 'service-worker.js',
@@ -32,8 +31,8 @@ module.exports = () => {
         short_name: 'JATE',
         description: 'This is simply just another text editor. Boring, right? Wrong.',
         background_color: '#ffffff',
-        start: './',
-        publicPath: './',
+        start: '.',
+        publicPath: '.',
         icons: [
           {
             src: path.resolve('src/images/logo.png'),
