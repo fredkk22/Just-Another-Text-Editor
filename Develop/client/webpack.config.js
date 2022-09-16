@@ -28,15 +28,15 @@ module.exports = () => {
       }),
       new WebpackPwaManifest({
         // TODO: Create a manifest.json:
-        name: 'TODOs for Everyday Use',
-        short_name: 'TODOs List',
-        description: 'My awesome TODOs list!',
+        name: 'Just Another Text Editor',
+        short_name: 'JATE',
+        description: 'This is simply just another text editor. Boring, right? Wrong.',
         background_color: '#ffffff',
         start: './',
         publicPath: './',
         icons: [
           {
-            src: path.resolve('assets/images/logo.png'),
+            src: path.resolve('src/images/logo.png'),
             sizes: [96, 128, 192, 256, 384, 512] // multiple sizes
           }
         ]
