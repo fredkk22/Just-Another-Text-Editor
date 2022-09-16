@@ -23,7 +23,7 @@ module.exports = () => {
       }),
       new InjectManifest({
         swSrc: path.resolve(__dirname, 'src-sw.js'),
-        swDest: './service-worker.js',
+        swDest: 'service-worker.js',
       }),
       new WebpackPwaManifest({
         // TODO: Create a manifest.json:
