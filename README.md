@@ -26,19 +26,19 @@ I was able to learn more about and become more comfortable with PWAs, though I h
 
 ### Screenshot #1:
 
-![Screenshot-1](./screenshots/JATE%20Screenshot%201.PNG.PNG)
+![Screenshot-1](./screenshots/JATE%20Screenshot%201.PNG)
 
 ### Screenshot #2:
 
-![Screenshot-2](./screenshots/JATE%20Screenshot%202.PNG.PNG)
+![Screenshot-2](./screenshots/JATE%20Screenshot%202.PNG)
 
 ### Screenshot #3:
 
-![Screenshot-3](./screenshots/JATE%20Screenshot%203.PNG.PNG)
+![Screenshot-3](./screenshots/JATE%20Screenshot%203.PNG)
 
 ### Screenshot #4:
 
-![Screenshot-1](./screenshots/JATE%20Screenshot%204.PNG.PNG)
+![Screenshot-1](./screenshots/JATE%20Screenshot%204.PNG)
 
 ## Credits
 
